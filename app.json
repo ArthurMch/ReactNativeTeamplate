@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "template_rn_nzc",
-    "slug": "template_rn_nzc",
+    "name": "calistrack",
+    "slug": "calistrack",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
