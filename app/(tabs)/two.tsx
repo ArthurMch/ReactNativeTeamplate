@@ -5,7 +5,7 @@ import { Text, View } from '@/components/Themed';
 export default function TabTwoScreen() {
   return (
     <View style={styles.container}>
-      <Text style={styles.title}>By NZC</Text>
+      <Text style={styles.title}>Account</Text>
     </View>
   );
 }

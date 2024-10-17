@@ -5,7 +5,7 @@ import { Text, View } from '@/components/Themed';
 export default function TabOneScreen() {
   return (
     <View style={styles.container}>
-      <Text style={styles.title}>Template React Native</Text>
+      <Text style={styles.title}>CalisTrack</Text>
     </View>
   );
 }
